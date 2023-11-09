@@ -1,0 +1,18 @@
+# 激活密钥Backup
+
+## VMware Workstation 永久激活密钥
+```
+VMware Workstation 16 : ZF3R0-FHED2-M80TY-8QYGC-NPKYF
+```
+## VSVisual Studio Ultimate 2013密钥
+```
+Visual Studio Ultimate 2013 KEY（密钥）：BWG7X-J98B3-W34RT-33B3R-JVYW9
+Visual Studio Premium 2013 KEY（密钥）：FBJVC-3CMTX-D8DVP-RTQCT-92494
+Visual Studio Professional 2013 KEY（密钥）： XDM3T-W3T3V-MGJWK-8BFVD-GVPKY
+Team Foundation Server 2013 KEY（密钥）：MHG9J-HHHX9-WWPQP-D8T7H-7KCQG
+```
+## VSVisual Studio Ultimate&Professional 2019密钥
+```
+Visual Studio 2019 Enterprise : BF8Y8-GN2QH-T84XB-QVY3B-RC4DF
+Visual Studio 2019 Professional : NYWVH-HT4XC-R2WYW-9Y3CM-X4V3Y
+```
