@@ -19,6 +19,7 @@
 [Motrix](https://motrix.app/zh-CN/)- Motrix 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源。 [Motrix-SDU](https://mirrors.sdu.edu.cn/github-release/agalwood_Motrix/)  
 [NatTypeTester](https://github.com/HMBSbige/NatTypeTester) - 测试当前网络的 NAT 类型。  
 [OBS Studio](https://obsproject.com/) - OBS Studio(Open Broadcaster Software) 是一款实时流媒体和屏幕录制软件，在直播领域使用的比较广泛。 [OBS Studio-NJU](https://mirror.nju.edu.cn/github-release/obsproject/obs-studio/LatestRelease/)   
+[PeaZip](https://peazip.github.io/) - 开源的压缩软件。 [Github-PeaZip](https://github.com/peazip/PeaZip)  
 [Rufus](https://rufus.ie/zh/) - Rufus 是一款格式化和创建 USB 启动盘的辅助工具。 [Rufus-NJU](https://mirrors.nju.edu.cn/github-release/pbatard/rufus/LatestRelease/)  
 [RustDesk](https://rustdesk.com/zh/) - RustDesk 是一款可以平替 TeamViewer 的开源软件，旨在提供安全便捷的自建方案。 [RustDesk-SDU](https://mirrors.sdu.edu.cn/github-release/rustdesk_rustdesk/)  
 [ShareX](https://getsharex.com/) - ShareX是一款免费的开源程序,不仅可以截图,还可以录屏,自动添加水印和阴影,OCR。 [ShareX-Github](https://github.com/ShareX/ShareX)  [ShareX-SDU](https://mirrors.sdu.edu.cn/github-release/ShareX_ShareX/)  
@@ -131,6 +132,7 @@ uBlock Origin常用规则（参考：[cjxlist](https://github.com/cjx82630/cjxli
 [Macast](https://github.com/xfangfang/Macast) - 一款支持 Windows、macOS、Linux 跨平台下 DLNA 投屏接收端。  
 [NanaZip](https://github.com/M2Team/NanaZip) - 7-Zip 的衍生产品，带来现代 Windows 体验。 [MicrosoftStore](https://apps.microsoft.com/detail/nanazip/9N8G7TSCL18R?hl=zh-cn&gl=CN) [NanaZip-SDU](https://mirrors.sdu.edu.cn/github-release/M2Team_NanaZip/)  
 [Office Tool Plus](https://otp.landian.vip/zh-cn/) -  Office Tool Plus 基于 Office 部署工具 (ODT) 打造，可以很轻松地部署 Office。 [Office Tool Plus-NJU](https://mirror.nju.edu.cn/github-release/YerongAI/Office-Tool/LatestRelease/)  
+[PicGo](https://molunerfinn.com/PicGo/) - PicGo: 一个用于快速上传图片并获取图片 URL 链接的工具。  
 [PortableApps](https://portableapps.com/zh-cn) - PortableApps是一款十分优秀好用、功能齐全的便携式软件管理工具。注：国内下载速度堪忧，且代理可能异常  
 [Parsec](http://parsec.app/) - 远程控制软件。  
 [Password Tech](https://pwgen-win.sourceforge.io/) - PwTech是一款安全可靠的密码生成器。 [passwordtechGithub](https://github.com/cthoeing/passwordtech)
