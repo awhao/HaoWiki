@@ -15,9 +15,9 @@
 在firefox地址栏输入 about:preferences#general  
 或（打开firefox设置）  
 取消勾换使用推荐的性能设置，打勾自动启用硬件加速  
-![启用硬件加速](img/Config/image20231110841.png)  
+![启用硬件加速](https://cdn.jsdelivr.net/gh/awhao/storageRoom@1714e52ca49e0b83712ecdca1ffc4b9101b65522/blog/img/Config/image20231110841.png)  
 ## 2. 更改bilibili解码为HEVC/H.265
 
 打开一个视频，找到设置按钮把播放策略更改为HEVC  
-![更改为HEVC](img/Config/image20231110417.png)
+![更改为HEVC](https://cdn.jsdelivr.net/gh/awhao/storageRoom@1714e52ca49e0b83712ecdca1ffc4b9101b65522/blog/img/Config/image20231110417.png)
 
