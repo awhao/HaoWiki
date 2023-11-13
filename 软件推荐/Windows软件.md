@@ -140,16 +140,17 @@ uBlock Origin常用规则（参考：[cjxlist](https://github.com/cjx82630/cjxli
 [Thunderbird](https://www.thunderbird.net/zh-CN/) - Thunderbird具有简约设计的电子邮件客户端。  
 [图吧工具箱](http://www.tbtool.cn/) - 图吧工具箱，是开源、免费、绿色、纯净的硬件检测工具合集。  
 [VirtualBox](https://www.virtualbox.org/) - VirtualBox 是一款开源虚拟机软件。  [VirtualBox-Win-NJU](https://mirror.nju.edu.cn/virtualbox/virtualbox-Win-latest.exe)  
-[Watt Toolkit](https://steampp.net/) - 「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。 原Steam++。
+[Watt Toolkit](https://steampp.net/) - 「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。 原Steam++。  
+[WingetUI]() - WingetUI 是 Winget 工具的图形界面实现，让 Windows 应用程序包管理变得非常简单。 [WinGet-Github](https://github.com/microsoft/winget-cli) [WinGet-ustc](https://mirrors.ustc.edu.cn/help/winget-source.html)  
 
 ## 游戏
-[Minecraft](https://www.minecraft.net/zh-hans/) - 《我的世界》（Minecraft）是一款沙盒类电子游戏。
+[Minecraft](https://www.minecraft.net/zh-hans/) - 《我的世界》（Minecraft）是一款沙盒类电子游戏。  
 
 ### Minecraft相关
-[Azul Zulu Builds of OpenJDK](https://www.azul.com/downloads/) - Azul Zulu 构建 OpenJDK，高性能。
+[Azul Zulu Builds of OpenJDK](https://www.azul.com/downloads/) - Azul Zulu 构建 OpenJDK，高性能。  
 
 ## 参考网站
-* [Awesome-Github](https://github.com/sindresorhus/awesome)
-* [Awesome-Windows-Github](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
-* [国内开源镜像网站集合汇总-知乎](https://zhuanlan.zhihu.com/p/609597886)
-* [校园网联合镜像站](https://mirrors.cernet.edu.cn/)
+* [Awesome-Github](https://github.com/sindresorhus/awesome)  
+* [Awesome-Windows-Github](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)  
+* [国内开源镜像网站集合汇总-知乎](https://zhuanlan.zhihu.com/p/609597886)  
+* [校园网联合镜像站](https://mirrors.cernet.edu.cn/)  
