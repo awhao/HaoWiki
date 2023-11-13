@@ -3,6 +3,7 @@
 ## 在使用的软件
 
 ### 实用工具 (Tools)
+
 [BCUninstaller](https://www.bcuninstaller.com/) - 开源卸载工具，全面显示软件信息、批量垃圾删除、强制卸载程序。  
 [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 纯粹的Windows右键菜单管理程序。 [ContextMenuManager-SDU](https://mirrors.sdu.edu.cn/github-release/BluePointLilac_ContextMenuManager/)  
 [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU-Z是一款CPU检测软件。  
@@ -31,6 +32,7 @@
 [WePE](https://www.wepe.com.cn/) - 微PE是跨时代的PE工具箱,装机维护得力的助手,最后的救命稻草。化繁为简,小材大用,一键安装,极速启动。 [WePE-SDU](https://mirrors.sdu.edu.cn/software/Windows/WePE/)  
 
 ### 编程开发 (Develop)
+
 [Eclipse](https://www.eclipse.org/downloads/) - 一款功能强大的 IDE。 [Eclipse-NJU](https://mirror.nju.edu.cn/eclipse/technology/epp/downloads/release/)  
 [IntelliJ IDEA](https://www.jetbrains.com/zh-cn/idea/) - JetBrain出品的跨平台的IDE，现代化的 Java IDE。 [学生认证](https://sales.jetbrains.com/hc/zh-cn/articles/207154369-%E5%AD%A6%E7%94%9F%E6%8E%88%E6%9D%83%E7%94%B3%E8%AF%B7%E6%96%B9%E5%BC%8F)   
 [MarkText](https://github.com/marktext/marktext) -  一个简单优雅的开源 Markdown 编辑器，专注于速度和可用性。 可用于 Linux、macOS 和 Windows。 [MarkText-SDU](https://mirrors.sdu.edu.cn/github-release/marktext_marktext/)  [MarkText中文汉化包](https://github.com/chinayangxiaowei/marktext-chinese-language-pack)  
@@ -39,6 +41,7 @@
 [WinSCP](https://winscp.net) - Windows 环境下使用的 SSH 的开源图形化 SFTP 客户端。 [官网下载界面](https://winscp.net/eng/downloads.php) 
 
 #### 开发环境(需要配置环境变量)
+
 [Alibaba Dragonwell](https://dragonwell-jdk.io) - Alibaba Dragonwell 是一款免费的, 生产就绪型Open JDK 发行版。  
 [CMake](https://cmake.org/download/) - CMake是一个跨平台的安装（编译）工具，可以用简单的语句来描述所有平台的安装(编译过程)。  
 [Git-for-windows](https://git-scm.com/download/win) - Git是一个免费和开源的分布式版本控制系统。 [Git-for-windows-NJU](https://mirrors.nju.edu.cn/github-release/git-for-windows/git/LatestRelease/) 自用PortableGit版本  
@@ -48,10 +51,12 @@
 [Python](https://www.python.org/downloads/windows/) - Python 是一种编程语言，可让您快速工作并更有效地集成系统。[Python pip中科大源](https://pypi.mirrors.ustc.edu.cn/simple)    
 
 ### 微软商店
+
 [EarTrumpet](https://eartrumpet.app/) - EarTrumpet 是一款功能强大的 Windows 音量控制应用。 [MicrosoftStore](https://apps.microsoft.com/detail/eartrumpet/9NBLGGH516XP?hl=zh-cn&gl=CN)  
 [NVIDIA Control Panel](https://apps.microsoft.com/detail/nvidia-control-panel/9NF8H0H7WMLT?hl=zh-cn&gl=US) - NVIDIA控制面板。  
 
 ### windows安装软件
+
 [7-zip](https://7-zip.org/) - 用于处理压缩包的开源Windows实用程序。[7-zip-NJU](https://mirror.nju.edu.cn/7-zip/)  
 [Adobe破解 m0nkrus](https://w14.monkrus.ws/) - m0nkrus的博客，发布最新Adobe的破解。  
 [Adobe Acrobat Reader DC](https://helpx.adobe.com/cn/acrobat/kb/acrobat-dc-downloads.html) - Adobe公司免费PDF阅读软件。  
@@ -77,6 +82,7 @@
 [微信](https://weixin.qq.com/) - 聊天软件。   
 
 ### 自用修改版软件 (汉化|破解) (Crack)
+
 [AIDA64](https://www.aida64.com/downloads) - AIDA64是一款系统软硬件检测工具，它可以详细的显示出PC各方面的信息。 [AIDA64-423down网站](https://www.423down.com/887.html)  
 [ApowerREC](https://www.apowersoft.cn/record-all-screen) - Windows、Mac、Android、iOS多平台录屏工具。 [ApowerREC破解-123pan](https://www.123pan.com/s/eT7mjv-rrsPH.html)  
 [AS SSD Benchmark](https://www.alex-is.de/PHP/fusion/infusions/downloads/downloads.php?download_id=9) - AS SSD Benchmark，SSD固态硬盘测试工具，固态硬盘基准测试工具。 [AS SSD Benchmark汉化-423down网站](https://www.423down.com/6751.html)
@@ -89,9 +95,11 @@
 ### 杂 (未分类软件) (Test)
 
 ### 浏览器
+
 [Firefox](https://www.mozilla.org/zh-CN/firefox/new/) - mozilla开源浏览器。 [Firefox-Win64-zh-CN](https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=zh-CN)
 
 #### Firefox扩展
+
 [Firefox扩展商店](https://addons.mozilla.org)  
 [篡改猴](https://www.tampermonkey.net/?locale=zh) - 使用用户脚本自由地改变网络。 脚本站：[GreasyFork](https://greasyfork.org/zh-CN)，[Userscript.Zone Search](https://www.userscript.zone/)，[OpenUserJS](https://openuserjs.org/)，[SleazyFork](https://sleazyfork.org/zh-CN)（成人站专用）。  
 [隐私獾](https://privacybadger.org/zh-cn/) - 隐私獾是一个会自动学习阻止不可见跟踪器的浏览器扩展程序。  
@@ -102,6 +110,7 @@
 [TWP - Translate Web Pages](https://addons.mozilla.org/zh-CN/firefox/addon/traduzir-paginas-web/) - 使用 Google 或 Yandex 实时翻译您的页面。  
 [uBlock Origin](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/) - uBlock Origin是一款高效的网络请求过滤工具，占用极低的内存和 CPU。[uBlock Origin-官网](https://ublockorigin.com/)  
 uBlock Origin常用规则（参考：[cjxlist](https://github.com/cjx82630/cjxlist) 下列表规则链接来源:官网，adblockplus，AdGuard镜像，jsdelivr）
+
 * [I don’t care about cookies](https://www.i-dont-care-about-cookies.eu/abp/)
 * [EasyList](https://easylist-downloads.adblockplus.org/easylist.txt) (反广告主规则列表。主要面向英文网站，包含大量通用规则) 
 * [Easylist China](https://easylist-downloads.adblockplus.org/easylistchina.txt) (反广告主规则列表的补充。主要面向中文网站)
@@ -110,17 +119,19 @@ uBlock Origin常用规则（参考：[cjxlist](https://github.com/cjx82630/cjxli
 * (ubo专用) [CJX's uBlock list](https://cdn.jsdelivr.net/gh/cjx82630/cjxlist@master/cjx-ublock.txt) (CJX's Annoyance List的补充。)
 * 注意：ublock origin请保留"内置"栏目规则  
 
-
 #### 扩展偶尔使用
+
 [Get cookies.txt LOCALLY](https://addons.mozilla.org/zh-CN/firefox/addon/get-cookies-txt-locally/) - Get cookies。  
 [SingleFile](https://addons.mozilla.org/zh-CN/firefox/addon/single-file/) - 将完整的页面保存到一个 HTML 文件中。 
 [User-Agent Switcher and Manager](https://addons.mozilla.org/zh-CN/firefox/addon/user-agent-string-switcher/) - 更换UA。
-  
+
 ##### tampermonkey脚本
+
 [AC-baidu-重定向优化百度搜狗谷歌必应搜索_favicon_双列](https://greasyfork.org/zh-CN/scripts/14178) - 去掉百度、搜狗、谷歌搜索结果的重定向。  
 [sourceforge.net 下载加速（中国）](https://greasyfork.org/zh-CN/scripts/440530) - 在sourceforge.net直接显示下载连接并替换为国内镜像进行加速。  
 
 ## 未使用很优秀的软件
+
 [Adobe](https://helpx.adobe.com/cn/download-install/kb/download-availability.html) - Adobe全家桶。  [vposy-weibo](https://weibo.com/vposy) 
 [Advanced IP Scanner](https://www.advanced-ip-scanner.com/cn/) - 可靠且免费的网络扫描器可以分析 LAN。该程序可扫描所有网络设备，使您能够访问共享文件夹和 FTP 服务器。  
 [drawio](https://www.drawio.com/) - 流程图软件。 [drawio-SDU](https://mirrors.sdu.edu.cn/github-release/jgraph_drawio-desktop/)  
@@ -145,12 +156,15 @@ uBlock Origin常用规则（参考：[cjxlist](https://github.com/cjx82630/cjxli
 [WingetUI]() - WingetUI 是 Winget 工具的图形界面实现，让 Windows 应用程序包管理变得非常简单。 [WinGet-Github](https://github.com/microsoft/winget-cli) [WinGet-ustc](https://mirrors.ustc.edu.cn/help/winget-source.html)  
 
 ## 游戏
+
 [Minecraft](https://www.minecraft.net/zh-hans/) - 《我的世界》（Minecraft）是一款沙盒类电子游戏。  
 
 ## Minecraft相关
+
 [Azul Zulu Builds of OpenJDK](https://www.azul.com/downloads/) - Azul Zulu 构建 OpenJDK，高性能。  
 
 ## 参考网站
+
 * [Awesome-Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md) - Windows上优质&精选的最佳应用程序及工具列表。  
 * [Windows Apps That Amaze Us](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us/zh-cn) - 本书旨在介绍 Windows 绝妙项目。  
 * [Awesome-Github](https://github.com/sindresorhus/awesome)  
