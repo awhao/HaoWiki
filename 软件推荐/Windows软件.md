@@ -94,14 +94,13 @@
 #### Firefox扩展
 [Firefox扩展商店](https://addons.mozilla.org)  
 [篡改猴](https://www.tampermonkey.net/?locale=zh) - 使用用户脚本自由地改变网络。 脚本站：[GreasyFork](https://greasyfork.org/zh-CN)，[Userscript.Zone Search](https://www.userscript.zone/)，[OpenUserJS](https://openuserjs.org/)，[SleazyFork](https://sleazyfork.org/zh-CN)（成人站专用）。  
+[隐私獾](https://privacybadger.org/zh-cn/) - 隐私獾是一个会自动学习阻止不可见跟踪器的浏览器扩展程序。  
 [ClearURLs](https://addons.mozilla.org/zh-CN/firefox/addon/clearurls/) - 从 URL 中移除跟踪元素。  
 [Offline QR Code Generator](https://addons.mozilla.org/zh-CN/firefox/addon/offline-qr-code-generator/) - 你可以为任意已打开的网站或标签生成二维码。  
-[PortableApps](https://portableapps.com/zh-cn) - 是世界上最受欢迎的便携式软件解决方案。  
 [Proxy SwitchyOmega](https://addons.mozilla.org/zh-CN/firefox/addon/switchyomega/) - 轻松快捷地管理和切换多个代理设置。 [gfwlistGithub](https://github.com/gfwlist/gfwlist) [gfwlistJsdelivr](https://cdn.jsdelivr.net/gh/gfwlist/gfwlist@master/gfwlist.txt)  
-[SingleFile](https://addons.mozilla.org/zh-CN/firefox/addon/single-file/) - 将完整的页面保存到一个 HTML 文件中。
 [Simple Context Search](https://addons.mozilla.org/zh-CN/firefox/addon/simple-context-search/) - 最简单的右键菜单搜索工具，方便您在右键菜单中使用非默认的搜索引擎搜索选中内容或链接。  
 [TWP - Translate Web Pages](https://addons.mozilla.org/zh-CN/firefox/addon/traduzir-paginas-web/) - 使用 Google 或 Yandex 实时翻译您的页面。  
-[uBlock Origin](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/) - 一款高效的网络请求过滤工具，占用极低的内存和 CPU。  
+[uBlock Origin](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/) - uBlock Origin是一款高效的网络请求过滤工具，占用极低的内存和 CPU。[uBlock Origin-官网](https://ublockorigin.com/)  
 uBlock Origin常用规则（参考：[cjxlist](https://github.com/cjx82630/cjxlist) 下列表规则链接来源:官网，adblockplus，AdGuard镜像，jsdelivr）
 * [I don’t care about cookies](https://www.i-dont-care-about-cookies.eu/abp/)
 * [EasyList](https://easylist-downloads.adblockplus.org/easylist.txt) (反广告主规则列表。主要面向英文网站，包含大量通用规则) 
@@ -110,14 +109,16 @@ uBlock Origin常用规则（参考：[cjxlist](https://github.com/cjx82630/cjxli
 * [CJX's Annoyance List](https://filters.adtidy.org/extension/ublock/filters/220.txt) (反自我推广,移除anti adblock,防跟踪规则列表)
 * (ubo专用) [CJX's uBlock list](https://cdn.jsdelivr.net/gh/cjx82630/cjxlist@master/cjx-ublock.txt) (CJX's Annoyance List的补充。)
 * 注意：ublock origin请保留"内置"栏目规则  
-[隐私獾](https://privacybadger.org/zh-cn/) - 隐私獾是一个会自动学习阻止不可见跟踪器的浏览器扩展程序。  
+
 
 #### 扩展偶尔使用
 [Get cookies.txt LOCALLY](https://addons.mozilla.org/zh-CN/firefox/addon/get-cookies-txt-locally/) - Get cookies。  
+[SingleFile](https://addons.mozilla.org/zh-CN/firefox/addon/single-file/) - 将完整的页面保存到一个 HTML 文件中。 
 [User-Agent Switcher and Manager](https://addons.mozilla.org/zh-CN/firefox/addon/user-agent-string-switcher/) - 更换UA。
   
 ##### tampermonkey脚本
-[sourceforge.net 下载加速（中国）](https://greasyfork.org/zh-CN/scripts/440530-sourceforge-net-%E4%B8%8B%E8%BD%BD%E5%8A%A0%E9%80%9F-%E4%B8%AD%E5%9B%BD)  
+[AC-baidu-重定向优化百度搜狗谷歌必应搜索_favicon_双列](https://greasyfork.org/zh-CN/scripts/14178) - 去掉百度、搜狗、谷歌搜索结果的重定向。  
+[sourceforge.net 下载加速（中国）](https://greasyfork.org/zh-CN/scripts/440530) - 在sourceforge.net直接显示下载连接并替换为国内镜像进行加速。  
 
 ## 未使用很优秀的软件
 [Adobe](https://helpx.adobe.com/cn/download-install/kb/download-availability.html) - Adobe全家桶。  [vposy-weibo](https://weibo.com/vposy) 
@@ -146,11 +147,12 @@ uBlock Origin常用规则（参考：[cjxlist](https://github.com/cjx82630/cjxli
 ## 游戏
 [Minecraft](https://www.minecraft.net/zh-hans/) - 《我的世界》（Minecraft）是一款沙盒类电子游戏。  
 
-### Minecraft相关
+## Minecraft相关
 [Azul Zulu Builds of OpenJDK](https://www.azul.com/downloads/) - Azul Zulu 构建 OpenJDK，高性能。  
 
 ## 参考网站
+* [Awesome-Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md) - Windows上优质&精选的最佳应用程序及工具列表。  
+* [Windows Apps That Amaze Us](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us/zh-cn) - 本书旨在介绍 Windows 绝妙项目。  
 * [Awesome-Github](https://github.com/sindresorhus/awesome)  
-* [Awesome-Windows-Github](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)  
 * [国内开源镜像网站集合汇总-知乎](https://zhuanlan.zhihu.com/p/609597886)  
 * [校园网联合镜像站](https://mirrors.cernet.edu.cn/)  
