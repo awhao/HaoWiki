@@ -20,6 +20,7 @@
 [NatTypeTester](https://github.com/HMBSbige/NatTypeTester) - 测试当前网络的 NAT 类型。  
 [OBS Studio](https://obsproject.com/) - OBS Studio(Open Broadcaster Software) 是一款实时流媒体和屏幕录制软件，在直播领域使用的比较广泛。 [OBS Studio-NJU](https://mirror.nju.edu.cn/github-release/obsproject/obs-studio/LatestRelease/)  
 [PeaZip](https://peazip.github.io/) - 开源的压缩软件。 [Github-PeaZip](https://github.com/peazip/PeaZip)  
+[PixPin](https://pixpinapp.com/) - 截图/贴图/长截图/文字识别/标注。  
 [Rufus](https://rufus.ie/zh/) - Rufus 是一款格式化和创建 USB 启动盘的辅助工具。 [Rufus-NJU](https://mirrors.nju.edu.cn/github-release/pbatard/rufus/LatestRelease/)  
 [RustDesk](https://rustdesk.com/zh/) - RustDesk 是一款可以平替 TeamViewer 的开源软件，旨在提供安全便捷的自建方案。 [RustDesk-SDU](https://mirrors.sdu.edu.cn/github-release/rustdesk_rustdesk/)  
 [ShareX](https://getsharex.com/) - ShareX 是一款免费的开源程序,不仅可以截图,还可以录屏,自动添加水印和阴影,OCR。 [ShareX-Github](https://github.com/ShareX/ShareX) [ShareX-SDU](https://mirrors.sdu.edu.cn/github-release/ShareX_ShareX/)  
@@ -61,8 +62,8 @@
 [FreeFileSync](https://freefilesync.org/) - FreeFileSync 是一个免费的、开源的文件夹比较和同步软件。  
 [GeForce 驱动](https://www.nvidia.cn/geforce/drivers/) - NVIDIA 驱动程序。  
 [GitHub Desktop](https://desktop.github.com/) - GitHub 的客户端程序。[GitHub 桌面版 简体中文汉化](https://github.com/lkyero/GitHubDesktop_zh)  
-[Logitech 游戏软件](https://support.logi.com/hc/zh-cn/articles/360025298053) - Logitech 鼠标管理软件。  
-[Microsoft Office](https://stores.office.com/myaccount/advancedinstalls.aspx?LicenseId=sOzNbwAAAAAAAAEA&ui=zh-CN&rs=zh-CN&ad=CN&fromAR=1) - Microsoft(微软)公司开发的一套办公软件套装。 [微软官网](https://microsoft.com)->点头像->我的 Microsoft 账户->服务和订阅->安装  
+[Logitech G HUB](https://www.logitechg.com/zh-cn/innovation/g-hub.html) - Logitech G HUB官方版是一款实用的鼠标键盘驱动软件。。  
+[Microsoft 365](https://www.microsoft.com/zh-cn/microsoft-365) - Microsoft(微软)公司开发的一套办公软件套装。 [微软官网](https://microsoft.com)->点头像->我的 Microsoft 账户->服务和订阅->安装  
 [PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys 是一组实用工具，可帮助高级用户调整和简化其 Windows 体验，从而提高工作效率。 [微软文档](https://learn.microsoft.com/zh-cn/windows/powertoys/) [PowerToys-NJU](https://mirror.nju.edu.cn/github-release/microsoft/PowerToys/LatestRelease/)  
 [QQ 音乐](https://y.qq.com/) - 音乐软件。
 [QQ](https://im.qq.com/) - 聊天软件。  
