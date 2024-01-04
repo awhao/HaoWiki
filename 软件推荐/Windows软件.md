@@ -25,7 +25,6 @@
 [RustDesk](https://rustdesk.com/zh/) - RustDesk 是一款可以平替 TeamViewer 的开源软件，旨在提供安全便捷的自建方案。 [RustDesk-SDU](https://mirrors.sdu.edu.cn/github-release/rustdesk_rustdesk/)  
 [ShareX](https://getsharex.com/) - ShareX 是一款免费的开源程序,不仅可以截图,还可以录屏,自动添加水印和阴影,OCR。 [ShareX-Github](https://github.com/ShareX/ShareX) [ShareX-SDU](https://mirrors.sdu.edu.cn/github-release/ShareX_ShareX/)  
 [ShuBiaoJiShuQi](https://www.123pan.com/s/eT7mjv-DrsPH.html) - 鼠标单击变双击测试器。注：提取自图吧工具箱，链接为 123pan 分享  
-[Snipaste](https://zh.snipaste.com/) - Snipaste 是一个简单但强大的截图工具，也可以让你将截图贴回到屏幕上。  
 [V2rayN](https://github.com/2dust/v2rayN) - Windows 系统下的代理软件客户端。  
 [VLC(videolan)](https://www.videolan.org/) - 自由、开源的跨平台多媒体播放器及框架，可播放大多数多媒体文件，以及 DVD、音频 CD、VCD 及各类流媒体协议。 [VLC-NJU](https://mirror.nju.edu.cn/videolan-ftp/vlc/last/win64/)  
 [Ventoy](https://www.ventoy.net/cn/) - Ventoy 是一个制作可启动 U 盘的开源工具。 [Ventoy-NJU](https://mirrors.nju.edu.cn/github-release/ventoy/Ventoy/LatestRelease/)  
@@ -50,7 +49,7 @@
 [Python](https://www.python.org/downloads/windows/) - Python 是一种编程语言，可让您快速工作并更有效地集成系统。[Python pip 中科大源](https://pypi.mirrors.ustc.edu.cn/simple/)
 
 ### 微软商店
-[EarTrumpet](https://eartrumpet.app/) - EarTrumpet 是一款功能强大的 Windows 音量控制应用。 [MicrosoftStore](https://apps.microsoft.com/detail/eartrumpet/9NBLGGH516XP?hl=zh-cn&gl=CN)  
+[EarTrumpet](https://eartrumpet.app/) - EarTrumpet 是一款功能强大的 Windows 音量控制应用。 [MicrosoftStore](https://apps.microsoft.com/detail/eartrumpet/9NBLGGH516XP?hl=zh-cn&gl=CN)  备注:暂时弃用，win11自带足够
 [NVIDIA Control Panel](https://apps.microsoft.com/detail/nvidia-control-panel/9NF8H0H7WMLT?hl=zh-cn&gl=US) - NVIDIA 控制面板。
 
 ### windows 安装软件
@@ -143,6 +142,7 @@
 [PicGo](https://molunerfinn.com/PicGo/) - PicGo: 一个用于快速上传图片并获取图片 URL 链接的工具。  
 [PortableApps](https://portableapps.com/zh-cn) - PortableApps 是一款十分优秀好用、功能齐全的便携式软件管理工具。注：国内下载速度堪忧，且代理可能异常。  
 [SSD-Z](http://aezay.dk/aezay/ssdz/) - SSD-Z，固态硬盘检测利器，免费的固态硬盘专业检测小工具！  
+[Snipaste](https://zh.snipaste.com/) - Snipaste 是一个简单但强大的截图工具，也可以让你将截图贴回到屏幕上。由于免费版功能不如PixPin故弃用。  
 [Thunderbird](https://www.thunderbird.net/zh-CN/) - Thunderbird 具有简约设计的电子邮件客户端。  
 [VirtualBox](https://www.virtualbox.org/) - VirtualBox 是一款开源虚拟机软件。 [VirtualBox-Win-NJU](https://mirror.nju.edu.cn/virtualbox/virtualbox-Win-latest.exe)  
 [Watt Toolkit](https://steampp.net/) - 「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。 原 Steam++。  
