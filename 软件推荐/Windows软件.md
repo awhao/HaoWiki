@@ -152,7 +152,7 @@
 
 ## 游戏
 [Minecraft](https://www.minecraft.net/zh-hans/) - 《我的世界》（Minecraft）是一款沙盒类电子游戏。
-
+[HMCL](https://github.com/huanghongxun/HMCL) - HMCL 是一款跨平台 Minecraft 启动器, 支持 Mod 管理, 游戏自定义, 游戏自动安装 (Forge, Fabric, Quilt, LiteLoader 与 OptiFine), 模组包创建, 界面自定义等功能。
 ### Minecraft 相关
 [Azul Zulu Builds of OpenJDK](https://www.azul.com/downloads/) - Azul Zulu 构建 OpenJDK，高性能。
 

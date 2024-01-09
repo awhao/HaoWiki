@@ -1,6 +1,4 @@
-# IntelliJ IDEA使用相关
-
-## IntelliJ IDEA插件
+# IntelliJ IDEA插件
 
 [Alibaba Cloud Toolkit](https://plugins.jetbrains.com/plugin/11386-alibaba-cloud-toolkit) 阿里云针对 IDE 平台为开发者提供的一款插件，用于帮助开发者高效开发并部署适合在云端运行的应用。  
 [Alibaba Java Coding Guidelines](https://plugins.jetbrains.com/plugin/10046-alibaba-java-coding-guidelines/) - 阿里巴巴代码规范检查。  
