@@ -3,6 +3,8 @@
 ## 在使用的软件
 
 ### 实用工具 (Tools)
+[AllDup](https://www.alldup.de/) - 一款免费的文件重复删除工具。  
+[Angry IP Scanner](https://angryip.org/) - 一款免费的网络扫描工具。 [Angry IP Scanner Github](https://github.com/angryip/ipscan)  
 [BCUninstaller](https://www.bcuninstaller.com/) - 开源卸载工具，全面显示软件信息、批量垃圾删除、强制卸载程序。  
 [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU-Z 是一款 CPU 检测软件。  
 [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 纯粹的 Windows 右键菜单管理程序。 [ContextMenuManager-SDU](https://mirrors.sdu.edu.cn/github-release/BluePointLilac_ContextMenuManager/)  
