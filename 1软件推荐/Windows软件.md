@@ -93,6 +93,7 @@
 
 ### 浏览器
 
+[Edge](https://www.microsoft.com/zh-cn/edge) - Microsoft Edge 是微软公司的一款基于 Chromium 内核的网页浏览器。 [Edge-Downloads](https://www.microsoft.com/zh-cn/edge/business/download] 
 [Firefox](https://www.mozilla.org/zh-CN/firefox/new/) - mozilla 开源浏览器。 [Firefox-Win64-zh-CN](https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=zh-CN)
 
 #### Firefox 扩展
