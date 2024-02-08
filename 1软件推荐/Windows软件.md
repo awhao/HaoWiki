@@ -80,7 +80,7 @@
 [飞书](https://www.feishu.cn/) - 先进企业协作与管理平台。  
 
 ### 自用修改版软件 (汉化|破解) (Crack)
-[AIDA64](https://www.aida64.com/downloads) - AIDA64 是一款系统软硬件检测工具，它可以详细的显示出 PC 各方面的信息。 [AIDA64_Keys](https://gist.github.com/bygalacos/d147c5fd8aa296f3d1e240b1dbd04af4) [AIDA64-423down 网站](https://www.423down.com/887.html)  
+[AIDA64](https://www.aida64.com/downloads) - AIDA64 是一款系统软硬件检测工具，它可以详细的显示出 PC 各方面的信息。 [AIDA64-423down 网站](https://www.423down.com/887.html)  
 [AS SSD Benchmark](https://www.alex-is.de/PHP/fusion/infusions/downloads/downloads.php?download_id=9) - AS SSD Benchmark，SSD 固态硬盘测试工具，固态硬盘基准测试工具。 [AS SSD Benchmark 汉化-423down 网站](https://www.423down.com/6751.html)
 [ApowerREC](https://www.apowersoft.cn/record-all-screen) - Windows、Mac、Android、iOS 多平台录屏工具。 [ApowerREC 破解-123pan](https://www.123pan.com/s/eT7mjv-rrsPH.html)  
 [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) - 文件批量重命名的神器。免费小巧功能强大的文件更名工具,支持批量重命名文件和文件夹。 [汉化版 V3.4.4.0-吾爱破解](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1677997&highlight=bulk%2Brename%2Butility) [汉化版 V3.4.4.0-123pan](https://www.123pan.com/s/eT7mjv-O2sPH.html)  
@@ -165,3 +165,4 @@
 - [Windows Apps That Amaze Us](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us/zh-cn) - 本书旨在介绍 Windows 绝妙项目。
 - [国内开源镜像网站集合汇总-知乎](https://zhuanlan.zhihu.com/p/609597886)
 - [校园网联合镜像站](https://mirrors.cernet.edu.cn/)
+- [Windows工具 · x1y9](https://x1y9.com/pages/windows-tools/)
