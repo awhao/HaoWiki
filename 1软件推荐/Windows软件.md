@@ -22,7 +22,7 @@
 [NatTypeTester](https://github.com/HMBSbige/NatTypeTester) - 测试当前网络的 NAT 类型。  
 [OBS Studio](https://obsproject.com/) - OBS Studio(Open Broadcaster Software) 是一款实时流媒体和屏幕录制软件，在直播领域使用的比较广泛。 [OBS Studio-NJU](https://mirror.nju.edu.cn/github-release/obsproject/obs-studio/LatestRelease/)  
 [PeaZip](https://peazip.github.io/) - 开源的压缩软件。 [Github-PeaZip](https://github.com/peazip/PeaZip)  
-[PixPin](https://pixpinapp.com/) - 截图/贴图/长截图/文字识别/标注。  
+[PixPin](https://pixpinapp.com/) - 截图/贴图/长截图/文字识别/标注。  [PixPin-Portable](https://download.pixpinapp.com/PixPin_1.7.6.0.zip) 更苦需要更换链接中的版本号  
 [Rufus](https://rufus.ie/zh/) - Rufus 是一款格式化和创建 USB 启动盘的辅助工具。 [Rufus-NJU](https://mirrors.nju.edu.cn/github-release/pbatard/rufus/LatestRelease/)  
 [RustDesk](https://rustdesk.com/zh/) - RustDesk 是一款可以平替 TeamViewer 的开源软件，旨在提供安全便捷的自建方案。 [RustDesk-SDU](https://mirrors.sdu.edu.cn/github-release/rustdesk_rustdesk/)  
 [ShareX](https://getsharex.com/) - ShareX 是一款免费的开源程序,不仅可以截图,还可以录屏,自动添加水印和阴影,OCR。 [ShareX-Github](https://github.com/ShareX/ShareX) [ShareX-SDU](https://mirrors.sdu.edu.cn/github-release/ShareX_ShareX/)  
