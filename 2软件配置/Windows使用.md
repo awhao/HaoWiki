@@ -1,6 +1,0 @@
-# Windows使用
-
-[隐藏Windows 安全通知](https://learn.microsoft.com/zh-cn/windows/security/operating-system-security/system-security/windows-defender-security-center/wdsc-hide-notifications#:~:text=%E4%BD%BF%E7%94%A8%E7%BB%84%E7%AD%96%E7%95%A5%E9%9A%90%E8%97%8F%E6%89%80%E6%9C%89%E9%80%9A%E7%9F%A5%201%20%E5%9C%A8%E7%BB%84%E7%AD%96%E7%95%A5%E7%AE%A1%E7%90%86%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%8A%EF%BC%8C%E6%89%93%E5%BC%80%20%E7%BB%84%E7%AD%96%E7%95%A5%E7%AE%A1%E7%90%86%E6%8E%A7%E5%88%B6%E5%8F%B0%20%EF%BC%8C%E5%8F%B3%E9%94%AE%E5%8D%95%E5%87%BB%E8%A6%81%E9%85%8D%E7%BD%AE%E7%9A%84%E7%BB%84%E7%AD%96%E7%95%A5%E5%AF%B9%E8%B1%A1%EF%BC%8C%E7%84%B6%E5%90%8E%E9%80%89%E6%8B%A9%E2%80%9C%20%E7%BC%96%E8%BE%91%20%E2%80%9D%E3%80%82%202,%E5%90%AF%E7%94%A8%20%E3%80%82%20%E9%80%89%E6%8B%A9%E2%80%9C%E7%A1%AE%E5%AE%9A%E2%80%9D%20%E3%80%82%205%20%E4%BB%A5%E6%AD%A3%E5%B8%B8%E6%96%B9%E5%BC%8F%E9%83%A8%E7%BD%B2%E6%9B%B4%E6%96%B0%E7%9A%84%20GPO%20%E3%80%82) - 来源learn.microsoft.com  
-[如何关闭edge文件下载扫描和风险提示](https://answers.microsoft.com/zh-hans/windows/forum/all/%E5%A6%82%E4%BD%95%E5%85%B3%E9%97%ADedge%E6%96%87/c88c1940-c999-4568-b96c-7484767eaf72) - 来源answers.microsoft.com  
-[如何在运行 Windows 的计算机上禁用和重新启用休眠](https://learn.microsoft.com/zh-cn/troubleshoot/windows-client/deployment/disable-and-re-enable-hibernation) - 来源learn.microsoft.com  
-
