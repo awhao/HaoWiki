@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: '小豪的宝藏间',
   tagline: '这里有小豪的宝藏，欢迎访问~',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
 
   // Set the production url of your site here
   url: 'https://wiki.awhao.com',
@@ -84,7 +84,7 @@ const config: Config = {
         {to: '/blog', label: '博客', position: 'left'},
 
         {
-          href:'https://www.awhao.com',
+          href:'https://awhao.com',
           label: '导航',
           position: 'right'
         },
