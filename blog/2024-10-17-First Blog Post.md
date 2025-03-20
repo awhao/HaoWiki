@@ -5,3 +5,4 @@ authors: [awhao]
 ---
 
 Docusaurus 第一篇博客
+<!-- truncate -->
