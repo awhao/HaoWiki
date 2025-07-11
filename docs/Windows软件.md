@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 # Windows 软件
 
-记录了我在Windows下收集的工具，我更喜欢portable的软件，这些基本都是free且portable的工具。这样重装windows的时候不需要再安装这些工具了，换电脑的时候，一个目录复制过去就可以了。
+记录了我在Windows下收集的工具。
 
 ## 在使用的软件
 
@@ -65,7 +65,7 @@ sidebar_position: 2
 
 [7-zip](https://7-zip.org/) - 用于处理压缩包的开源 Windows 实用程序。[7-zip-NJU](https://mirror.nju.edu.cn/7-zip/)\
 [Adobe Acrobat Reader DC](https://helpx.adobe.com/cn/acrobat/kb/acrobat-dc-downloads.html) - Adobe 公司免费 PDF 阅读软件。\
-[Adobe 破解 m0nkrus](https://w14.monkrus.ws/) - m0nkrus 的博客，发布最新 Adobe 的破解。\
+[Adobe 破解 m0nkrus](http://www.monkrus.ws/) - m0nkrus 的博客，发布最新 Adobe 的破解。\
 [Clean Flash Player](https://gitlab.com/cleanflash/installer#clean-flash-player) - Clean Flash Player 是 Gitlab 上发布的一款基于国内特供版 Flash 制作的纯净安装包。\
 [Firefox](https://www.mozilla.org/zh-CN/firefox/new/) - mozilla 开源浏览器。 [Firefox-Win64-zh-CN](https://download.mozilla.org/?product=firefox-latest-ssl\&os=win64\&lang=zh-CN)\
 [FreeFileSync](https://freefilesync.org/) - FreeFileSync 是一个免费的、开源的文件夹比较和同步软件。\
@@ -124,7 +124,6 @@ sidebar_position: 2
 * 注意：ublock origin 请保留"内置"栏目规则 参考：[cjxlist](https://github.com/cjx82630/cjxlist) 下列表规则链接来源:官网，adblockplus，AdGuard 镜像，jsdelivr
 
 **tampermonkey 脚本**
-
 [AC-baidu-重定向优化百度搜狗谷歌必应搜索_favicon_双列](https://greasyfork.org/zh-CN/scripts/14178) - 去掉百度、搜狗、谷歌搜索结果的重定向。\
 [sourceforge.net 下载加速（中国）](https://greasyfork.org/zh-CN/scripts/440530) - 在 sourceforge.net 直接显示下载连接并替换为国内镜像进行加速。
 

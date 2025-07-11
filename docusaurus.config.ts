@@ -71,7 +71,7 @@ const config: Config = {
     navbar: {
       title: '小豪的宝藏间',
       logo: {
-        alt: 'My Site Logo',
+        alt: '小豪的宝藏间',
         src: 'img/logo.svg',
       },
       items: [
@@ -82,7 +82,7 @@ const config: Config = {
           label: '文档',
         },
         {to: '/blog', label: '博客', position: 'left'},
-
+        
         {
           href:'https://awhao.com',
           label: '导航',
